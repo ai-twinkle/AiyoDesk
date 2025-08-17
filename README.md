@@ -3,9 +3,6 @@
 **AiyoDesk** 是一款 GPL3.0 免費開源授權的整合軟體，設計宗旨在於「**以最低的硬體成本打造專用AI伺服器**」，目前已整合 Conda Miniforge、llama.cpp、Open-WebUI、ComfyUI 等軟體，可以在一般家用電腦順暢執行各種量化模型，同時在內網共享 **AI** 文字交談、影像辨識等功能。
 <br />
 <br />
-本專案已遷移至 Twinkle-AI，未來將只在 Twinkle-AI 更新，[![請移駕](https://github.com/ai-twinkle/AiyoDesk)]。
-<br />
-<br />
 | 直接在 Open-WebUI 生成圖片 | 影像辨識 |
 | :-------: | :-------: |
 | <img src="assets/images/manual024.jpg" width="300" /> | <img src="assets/images/manual026.jpg" width="300" /> |
@@ -36,7 +33,7 @@
 
 ### **開始使用**
 
-1. 下載最新預編譯版本 [![GitHub Release](https://img.shields.io/github/v/release/phidiassj/AiyoDesk)](https://github.com/phidiassj/AiyoDesk/releases/latest)，或 clone repo 之後自行使用 Visual Studio 2022 編譯(原始碼版本可能落後 **Release** 版本)。
+1. 下載最新預編譯版本 [![GitHub Release](https://img.shields.io/github/v/release/phidiassj/AiyoDesk)](https://github.com/ai-twinkle/AiyoDesk/releases/latest)，或 clone repo 之後自行使用 Visual Studio 2022 編譯(原始碼版本可能落後 **Release** 版本)。
 
 2. 解壓縮，請注意存放的磁碟空間至少要有 30Gb 以上。
 
